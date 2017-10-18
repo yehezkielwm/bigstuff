@@ -26,7 +26,7 @@ namespace BIG
             get
             {
                 //Return a short string describing the purpose of this GHA library.
-                return "";
+                return "Useful tools for BIG Ideas projects and analysis";
             }
         }
         public override Guid Id
@@ -50,7 +50,7 @@ namespace BIG
             get
             {
                 //Return a string representing your preferred contact details.
-                return "";
+                return "yewi@big.dk, krne@big.dk, tore@big.dk";
             }
         }
     }
